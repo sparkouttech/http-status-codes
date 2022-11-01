@@ -1,0 +1,26 @@
+{
+  "name": "spark-http-status-codes",
+  "version": "1.0.0",
+  "description": "Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.",
+  "main": "index.js",
+  "author": "sivabharathy <gotocva@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparkouttech/http-status-codes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sparkouttech/http-status-codes/issues"
+  },
+  "homepage": "https://github.com/sparkouttech/http-status-codes#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http-status-codes",
+    "http",
+    "http-status",
+    "codes",
+    "HTTP response status codes"
+  ],
+  "license": "MIT"
+}
